@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=WELCOME&fontSize=90&fontAlign=60&rotate=13&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=WELCOME&fontSize=90&fontAlign=60&rotate=13&animation=twinkling)
 
 <div align=center>
 
@@ -17,17 +17,5 @@
 <br/>
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=footer)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&section=footer&text=seohyuniiii&fontSize=70&fontAlign=23&fontAlignY=80)
 
-
-## Slice <a id="slice">
-![slice](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=WELCOME&fontAlign=70&rotate=13)
-
-
-## Slice <a id="slice">
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200
-&text=WELCOME&fontAlign=70&rotate=13&fontAlignY=25&'desc=desc%20function%20is%20also%20rotated'.&descAlign=70.&descAlignY=44)
-
-4A675A
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&text=hi&fontColor=4A675A&fontAlign=70&rotate=13&section=header&text=capsule%20render&fontSize=90)
