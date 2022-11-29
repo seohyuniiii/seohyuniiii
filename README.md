@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=WELCOME&fontAlign=70&rotate=13)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=WELCOME&fontSize=90&fontAlign=60&rotate=13)
 
-![header](https://capsule-render.vercel.app/api?
-type=slice&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
 <div align=center>
 
 ### Study with
