@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&text=hi.&descAlign=70.&descAlignY=44&fontColor=4A675A&fontAlign=70&rotate=13&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=WELCOME&fontAlign=70&rotate=13)
 
 ![header](https://capsule-render.vercel.app/api?
 type=slice&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
@@ -23,8 +23,7 @@ type=slice&color=gradient&height=300&section=header&text=capsule%20render&fontSi
 
 
 ## Slice <a id="slice">
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200
-&text=WELCOME&fontAlign=70&rotate=13&fontAlignY=25&'desc=desc%20function%20is%20also%20rotated'.&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=WELCOME&fontAlign=70&rotate=13)
 
 
 ## Slice <a id="slice">
