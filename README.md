@@ -17,5 +17,5 @@
 <br/>
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&section=footer&text=seohyuniiii&fontSize=70&fontAlign=23&fontAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&section=footer&text=seohyuniiii&fontSize=60&fontAlign=20&fontAlignY=80)
 
