@@ -15,7 +15,7 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=Rstudio&logoColor=ffffff)  
 <br/>
 
-<h3 align="center"> 💻 My Github Stats 💻 </h3>
+### 💻 My Github Stats 💻
 <br/>  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyuniiii&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
