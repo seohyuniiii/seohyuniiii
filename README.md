@@ -20,7 +20,7 @@
 ### 💻 My Github Stats 💻
 <br/>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyuniiii&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=seohyuniiii&hide_title=true&show_icons=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <br/>
 <br/>
