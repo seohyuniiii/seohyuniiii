@@ -12,7 +12,9 @@
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=Rstudio&logoColor=ffffff)  
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=Rstudio&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mySQL&logoColor=ffffff)
+
 <br/>
 
 ### 💻 My Github Stats 💻
